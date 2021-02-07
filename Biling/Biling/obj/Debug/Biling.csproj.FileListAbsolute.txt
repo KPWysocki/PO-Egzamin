@@ -1,0 +1,5 @@
+D:\PO\Biling\Biling\obj\Debug\Biling.csprojAssemblyReference.cache
+D:\PO\Biling\Biling\obj\Debug\MainWindow.g.cs
+D:\PO\Biling\Biling\obj\Debug\App.g.cs
+D:\PO\Biling\Biling\obj\Debug\Biling_MarkupCompile.cache
+D:\PO\Biling\Biling\obj\Debug\Biling_MarkupCompile.lref
